@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/725954355.svg)](https://zenodo.org/doi/10.5281/zenodo.10246637)
 # Log-Gaussian gamma process parameter estimation and synthetic data generation for coherent anti-Stokes scattering (CARS) and Raman spectra.
 Implementantion of the log-Gaussian gamma process procedures described in the paper ([doi.org/10.48550/arXiv.2310.08055](https://doi.org/10.48550/arXiv.2310.08055)).
 Raman spectra are modelled as gamma-distributed variables where the $\beta$-process for the gamma process is modelled as a log-Gaussian gamma process.
