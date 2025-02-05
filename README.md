@@ -9,4 +9,4 @@ This is designed in particular for training neural networks for correcting spect
 neural network architecture can be found [here](https://github.com/ththarkonen/partially-bayesian-gamma-network).
 
 # References
-If you find the software useful, please cite ([doi.org/10.48550/arXiv.2310.08055](https://doi.org/10.48550/arXiv.2310.08055)).
+If you find the software useful, please cite ([doi.org/10.1039/D3CP04960D](https://doi.org/10.1039/D3CP04960D)).
